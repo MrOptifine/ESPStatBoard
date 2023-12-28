@@ -3,7 +3,7 @@
  " />
 
 # ESPStatBoard
- This is a very simple status board that can be connected to the internet with the help of an ESP8266. You can controll the for LEDS with Home Assistant. This for simple indicators that you can customize.
+ This is a very simple status board that can be connected to the internet with the help of an ESP8266. You can controll four (4) LEDS with Home Assistant. This for simple indicators that you can customize.
 
 ## Technical description
  TODO
